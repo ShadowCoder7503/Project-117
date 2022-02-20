@@ -1,0 +1,13 @@
+span{
+    font-size:25px;
+}
+p{
+    font-size:25px;
+}
+body{
+    background:pink;
+}
+@keyframes example{
+    from{box-shadow:1px 1px 38px purple};
+    to{box-shadow:1px 1px 38px blue}
+}
